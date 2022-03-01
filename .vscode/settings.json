@@ -1,5 +1,10 @@
 {
     "cSpell.ignoreWords": [
         "rocketline"
-    ]
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#57132A",
+        "titleBar.activeBackground": "#7A1A3B",
+        "titleBar.activeForeground": "#FEFBFC"
+    }
 }
